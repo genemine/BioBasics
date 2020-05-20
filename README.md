@@ -39,7 +39,9 @@
 
 18. Genes may be mutated. Genes may gain new functions or lose functions as a result of mutation.
 
+19. Structures determine functions. Functions are what genes do. Understand Gene Ontology (GO) functional annotation databse. A gene may have multiple functions.
 
+20. Life is all about genes, gene products and their interactions. Changes in genes, gene products or the interactions may result in abnormality or diseases.
 
 
 
