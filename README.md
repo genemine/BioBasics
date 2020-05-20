@@ -43,6 +43,13 @@
 
 20. Life is all about genes, gene products and their interactions. Changes in genes, gene products or the interactions may result in abnormality or diseases.
 
+21. A set of genes may function together, forming a pathway or a network.
+
+22. For complex diseases, it is of essential value to understand the genetic basis: causative genes and their related pathways.
+
+
+
+
 
 
 
