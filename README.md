@@ -31,11 +31,11 @@
 
 14. What detemines the "open" or "close" status of chromosomes? Then you may want to learn some epigenetics. Gentics studies changes in DNA, while epigenetics focuses on non-DNA changes.
 
-15. What are transcription factors (TFs)? How many are there for humans?
+15. What are transcription factors (TFs)? How many TFs are there for humans?
 
 16. How do transcrition factors work? What DNA sequences do TFs perfer to bind to?
 
-17. What are motif? DNAs, RNAs and proteins have motifs.
+17. What are motifs? DNAs, RNAs and proteins have motifs. Transcription factor binding sites (TFBS) are an example of motifs. Sequence logos provide an important and intuitive model to visualize motifs. You can search the database, i.e. JASPAR, to find motifs.
 
 18. Genes may be mutated. Genes may gain new functions or lose functions as a result of mutation.
 
@@ -43,7 +43,7 @@
 
 20. Life is all about genes, gene products and their interactions. Changes in genes, gene products or the interactions may result in abnormality or diseases.
 
-21. A set of genes may function together, forming a pathway or a network.
+21. A set of genes may work together for some purpose; they form a pathway or a network. The KEGG and MSigDB databases provide known pathways (gene sets).
 
 22. For complex diseases, it is of essential value to understand the genetic basis: causative genes and their related pathways.
 
