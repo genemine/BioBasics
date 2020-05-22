@@ -1,7 +1,35 @@
-# Foundamentals of Biology to master for learning bioinformatics.
+# Foundamentals to master for learning bioinformatics.
+## 1. Statistical and machine learning algorithms
+  Normal distribution
+  Poisson distribution
+  Probability density distribution and probability mass distribution
+  t test, Mann-Whitely U test
+  Why Multiple testing correction? Boferroni correction, FDR correction
+  
+  t-SNE
+  Principal component analysis (PCA)
+  Eigenvector and eigen value of a matrix
+  Canonical correlation analysis
+  
+  hierachical clustring
+  K-means clustering
+  
+  Ordinary least square regression
+  Partial least squares
+  Logistic regression
+  
+  Random Forests
+  Support vector machines
+  
+  ROC curves/AUROC
+  Precision recall curves/AUPRC
+  Sensitivity
+  Specificity
+  
+## 2. Programming:
+ Must to master: Python, R
 
-
-## Biological concepts to master
+## 3. Biology
 
 1. What are chromosomes, DNAs and genes? How are they related?
 
@@ -47,7 +75,7 @@
 
 22. For complex diseases, it is of essential value to understand the genetic basis: causative genes and their related pathways.
 
-
+23. Genome-wide association studies (GWAS)
 
 
 
