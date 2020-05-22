@@ -1,37 +1,33 @@
 # Foundamentals to master for learning bioinformatics (under construction...).
 ## 1. Statistical and machine learning algorithms
-  Normal distribution
-  
-  Poisson distribution
-  
-  Probability density distribution and probability mass distribution
-  
+  Normal distribution<br>
+  Poisson distribution<br>
+  Probability density distribution and probability mass distribution<br>
   t test, Mann-Whitely U test<br>
-  Why Multiple testing correction? Boferroni correction, FDR correction
+  Why Multiple testing correction? Boferroni correction, FDR correction<br>
   
-  t-SNE
   
-  Principal component analysis (PCA)
+  t-SNE<br>
+  Principal component analysis (PCA)<br>
+  Eigenvector and eigen value of a matrix<br>
+  Canonical correlation analysis<br>
   
-  Eigenvector and eigen value of a matrix
   
-  Canonical correlation analysis
+  hierachical clustring<br>
+  K-means clustering<br>
   
-  hierachical clustring
   
-  K-means clustering
+  Ordinary least square regression<br>
+  Partial least squares<br>
+  Logistic regression<br>
   
-  Ordinary least square regression
-  Partial least squares
-  Logistic regression
+  Random Forests<br>
+  Support vector machines<br>
   
-  Random Forests
-  Support vector machines
-  
-  ROC curves/AUROC
-  Precision recall curves/AUPRC
-  Sensitivity
-  Specificity
+  ROC curves/AUROC<br>
+  Precision recall curves/AUPRC<br>
+  Sensitivity<br>
+  Specificity<br>
   
 ## 2. Programming:
  Must to master: Python, R
