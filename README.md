@@ -1,4 +1,4 @@
-# Foundamentals to master for learning bioinformatics.
+# Foundamentals to master for learning bioinformatics (under construction...).
 ## 1. Statistical and machine learning algorithms
   Normal distribution
   
