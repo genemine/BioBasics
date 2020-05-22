@@ -1,8 +1,11 @@
 # Foundamentals to master for learning bioinformatics.
 ## 1. Statistical and machine learning algorithms
   Normal distribution
+  
   Poisson distribution
+  
   Probability density distribution and probability mass distribution
+  
   t test, Mann-Whitely U test
   Why Multiple testing correction? Boferroni correction, FDR correction
   
