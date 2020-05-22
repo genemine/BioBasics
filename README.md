@@ -6,15 +6,19 @@
   
   Probability density distribution and probability mass distribution
   
-  t test, Mann-Whitely U test
+  t test, Mann-Whitely U test<br>
   Why Multiple testing correction? Boferroni correction, FDR correction
   
   t-SNE
+  
   Principal component analysis (PCA)
+  
   Eigenvector and eigen value of a matrix
+  
   Canonical correlation analysis
   
   hierachical clustring
+  
   K-means clustering
   
   Ordinary least square regression
