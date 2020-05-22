@@ -28,6 +28,7 @@
   Precision recall curves/AUPRC<br>
   Sensitivity<br>
   Specificity<br>
+  F1-score<br>
   
 ## 2. Programming:
  Must to master: Python, R
